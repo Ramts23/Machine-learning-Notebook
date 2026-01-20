@@ -12,4 +12,4 @@ Machine learning is a field of artificial intelligence that gives computer syste
 - ML: Machine learning is a method of achieving AI where systems learn from data instead of being explicitly programmed.
 - DL: Deep learning is a type of machine learning that uses multi-layered neural networks to automatically learn complex patterns from large amounts of data.
 
-![Data-Science-Terms-You-Should-Know-The-Difference-Between-AI-ML-and-DL-Image-1.webp](Data-Science-Terms-You-Should-Know-The-Difference-Between-AI-ML-and-DL-Image-1.webp)
+![Data-Science-Terms-You-Should-Know-The-Difference-Between-AI-ML-and-DL-Image-1.webp](AI-ML-and-DL.webp)
